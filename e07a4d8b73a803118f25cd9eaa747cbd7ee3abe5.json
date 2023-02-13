@@ -1,0 +1,1 @@
+{"time": 1676322338.8004956, "commit": "e07a4d8b73a803118f25cd9eaa747cbd7ee3abe5", "size": 86765312, "stripped_size": 54991400, "projects": [{"name": "GNOME-Builder-Plugins", "parsing": 22805.285, "memory_allocations": 3741813, "temporary_memory_allocations": 527337, "peak_heap": "2.88M", "peak_rss": "25.91M"}]}
