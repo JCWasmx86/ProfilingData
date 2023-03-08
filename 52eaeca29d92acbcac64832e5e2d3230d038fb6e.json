@@ -1,0 +1,40 @@
+{
+  "time": 1678303235.4975712,
+  "commit": "52eaeca29d92acbcac64832e5e2d3230d038fb6e",
+  "size": 86994816,
+  "stripped_size": 54988072,
+  "projects": [
+    {
+      "name": "mesa",
+      "parsing": 1030163.679,
+      "memory_allocations": 112028565,
+      "temporary_memory_allocations": 9532134,
+      "peak_heap": "29.32M",
+      "peak_rss": "81.86M"
+    },
+    {
+      "name": "gnome-builder",
+      "parsing": 311969.746,
+      "memory_allocations": 42589262,
+      "temporary_memory_allocations": 4331163,
+      "peak_heap": "12.70M",
+      "peak_rss": "43.72M"
+    },
+    {
+      "name": "qemu",
+      "parsing": 730026.711,
+      "memory_allocations": 92442321,
+      "temporary_memory_allocations": 9307277,
+      "peak_heap": "28.95M",
+      "peak_rss": "89.12M"
+    },
+    {
+      "name": "GNOME-Builder-Plugins",
+      "parsing": 16267.277,
+      "memory_allocations": 2305078,
+      "temporary_memory_allocations": 296365,
+      "peak_heap": "2.17M",
+      "peak_rss": "25.24M"
+    }
+  ]
+}
