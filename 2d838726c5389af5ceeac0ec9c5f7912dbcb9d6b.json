@@ -1,0 +1,104 @@
+{
+  "time": 1678821980.1101747,
+  "commit": "2d838726c5389af5ceeac0ec9c5f7912dbcb9d6b",
+  "size": 87804512,
+  "stripped_size": 55204776,
+  "projects": [
+    {
+      "name": "gnome-builder",
+      "parsing": 296283.384,
+      "memory_allocations": 44182818,
+      "temporary_memory_allocations": 4688277,
+      "peak_heap": "12.70M",
+      "peak_rss": "44.04M"
+    },
+    {
+      "name": "GNOME-Builder-Plugins",
+      "parsing": 21847.386,
+      "memory_allocations": 3501363,
+      "temporary_memory_allocations": 486860,
+      "peak_heap": "2.60M",
+      "peak_rss": "27.07M"
+    },
+    {
+      "name": "gtk",
+      "parsing": 247123.83800000002,
+      "memory_allocations": 32823170,
+      "temporary_memory_allocations": 2945737,
+      "peak_heap": "13.59M",
+      "peak_rss": "52.86M"
+    },
+    {
+      "name": "mesa",
+      "parsing": 976457.479,
+      "memory_allocations": 114806906,
+      "temporary_memory_allocations": 10128671,
+      "peak_heap": "29.45M",
+      "peak_rss": "82.99M"
+    },
+    {
+      "name": "postgres",
+      "parsing": 623434.968,
+      "memory_allocations": 91578093,
+      "temporary_memory_allocations": 10025703,
+      "peak_heap": "22.10M",
+      "peak_rss": "73.10M"
+    },
+    {
+      "name": "qemu",
+      "parsing": 717684.166,
+      "memory_allocations": 94485773,
+      "temporary_memory_allocations": 9728008,
+      "peak_heap": "29.08M",
+      "peak_rss": "88.65M"
+    }
+  ],
+  "misc": {
+    "parsing": 326009.532,
+    "memory_allocations": 0,
+    "temporary_memory_allocations": 0,
+    "peak_heap": "0B",
+    "peak_rss": "0B"
+  },
+  "quick": {
+    "gnome-builder": 29600.157,
+    "GNOME-Builder-Plugins": 2150.524,
+    "gtk": 24713.324,
+    "mesa": 98478.19099999999,
+    "postgres": 62002.484000000004,
+    "qemu": 71225.821,
+    "bsdutils": 6163.5289999999995,
+    "bubblewrap": 1160.8899999999999,
+    "budgie-desktop": 9965.687000000002,
+    "bzip2": 864.7230000000001,
+    "cglm": 374.17499999999995,
+    "cinnamon-desktop": 1336.067,
+    "code": 2577.259,
+    "dbus-broker": 1773.4019999999998,
+    "dxvk": 2459.247,
+    "evince": 6197.795,
+    "frida-core": 6919.296,
+    "fwupd": 26294.628,
+    "gitg": 3458.964,
+    "gjs": 4901.131,
+    "glib": 37835.079,
+    "gnome-shell": 5259.21,
+    "hexchat": 4887.967,
+    "igt-gpu-tools": 7495.521,
+    "knot-resolver": 7078.237999999999,
+    "le": 3584.2909999999997,
+    "libswiftdemangle": 274.626,
+    "libvips": 8256.493,
+    "libvirt": 38088.008,
+    "lxc": 10743.203,
+    "miniz": 113.994,
+    "mpv": 9669.024,
+    "pipewire": 18175.711,
+    "rustc-demangle": 202.296,
+    "scipy": 17919.561,
+    "systemd": 53039.465,
+    "vte": 6602.129,
+    "xts": 11891.051,
+    "zrythm": 23310.663
+  }
+}
